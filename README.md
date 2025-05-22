@@ -1,6 +1,6 @@
 # AI Spam Detection System
 
-A Python-based spam detection system utilizing a Naive Bayes classifier and TF-IDF vectorization to classify text messages as spam or ham. This project was developed as part of a machine learning course assignment to demonstrate text classification techniques.
+A Python-based spam detection system utilizing a Naive Bayes classifier and TF-IDF vectorization to classify text messages as spam or ham. This project was developed as part of a Advanced Cyber Security course assignment to demonstrate text classification techniques.
 
 ## Features
 

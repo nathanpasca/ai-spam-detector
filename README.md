@@ -192,7 +192,7 @@ for name, clf in classifiers.items():
 
 ## Academic Disclaimer
 
-This project was developed as part of an academic assignment in Machine Learning. While it demonstrates text classification concepts, it may require additional features, robustness, and security measures for production use.
+This project was developed as part of an academic assignment in Advanced Cyber Security. While it demonstrates text classification concepts, it may require additional features, robustness, and security measures for production use.
 
 ## Contributing
 
